@@ -12,4 +12,5 @@ Este desafio foi solucionado utilizando HTML, CSS e Javascript puro. A solução
 </ul>
 
 A proposta do desafio completa pode ser observada [clicando aqui.](https://github.com/qcx/desafio-frontend) 
+
 A página foi hospedada no Netlify e pode ser visualizada [clicando aqui](https://cranky-joliot-2a23f8.netlify.app/)
